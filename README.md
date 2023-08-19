@@ -38,9 +38,7 @@ I've been a front-end engineer for about three years, focus on the front-end ski
 <!-- ### Socials -->
 
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub
 <!-- 
 <a href="http://www.github.com/arthur-mountain"><img src="https://github-readme-stats.vercel.app/api?username=arthur-mountain&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="arthur-mountain's GitHub stats" /></a>
 
