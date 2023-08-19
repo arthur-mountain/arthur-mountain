@@ -9,7 +9,7 @@ I've been a front-end engineer for about three years, focus on the front-end ski
 * 🌍  I'm based in taiwan
 * 🧠  I'm learning swr、react store management、the infra of front-end like localization, monitoring, github action、google cloud cli、
 
-### Skills
+<!-- ### Skills -->
 
 
 <p align="left">
