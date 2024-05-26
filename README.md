@@ -57,12 +57,12 @@
 ![](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Monitor skills
+## Monitor Skills
 
 ![](https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![](https://img.shields.io/badge/-GCP%20Log-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Analysis skills
+## Analysis Skills
 
 ![](https://img.shields.io/badge/-Google%20Tag-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
 ![](https://img.shields.io/badge/-Facebook%20Pixel-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
