@@ -1,14 +1,18 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arthur
+## Hi there, I'm [Your Name] 👋
 
-### Be better than yesterday~~~
+I am a front-end developer from Taiwan, specializing in modern web development and optimization.
 
-# Wellcome
+I also have experience with some back-end technologies. 
+
+I have a keen interest in underlying technologies and continuously strive to contribute to open source projects.
+
 
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
   <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,nodejs,go,docker" />
 </a>
 
-## Languages
+
+### Languages
 
 ![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -22,7 +26,7 @@
 -->
 
 
-## Frontend Skills
+### Frontend Skills
 
 ![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -40,7 +44,7 @@
 ![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 -->
 
-## Backend Skills
+### Backend Skills
 
 ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -52,23 +56,23 @@
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 -->
 
-## Operation Skills
+### Operation Skills
 
 ![](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Monitor Skills
+### Monitor Skills
 
 ![](https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![](https://img.shields.io/badge/-GCP%20Log-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Analysis Skills
+### Analysis Skills
 
 ![](https://img.shields.io/badge/-Google%20Tag-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
 ![](https://img.shields.io/badge/-Facebook%20Pixel-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![](https://img.shields.io/badge/-Dcard-0052CC?style=for-the-badge&logo=dcard&logoColor=white)
 
-## Development Tools
+### Development Tools
 
 ![](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/-tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
@@ -76,7 +80,7 @@
 ![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Cooperation Tools
+### Cooperation Tools
 
 ![](https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -84,5 +88,4 @@
 
 
 ### 📫 How to reach me:
-
-- email: arthur.oceanus@gmail.com
+- **Email**: arthur.oceanus@gmail.com
