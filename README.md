@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Arthur 👋
 
 I am a front-end developer from Taiwan, specializing in modern web development and optimization.
 
