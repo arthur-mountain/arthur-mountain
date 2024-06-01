@@ -83,5 +83,4 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 📫 How to reach me:
-- **Email**: arthur.oceanus@gmail.com
+<!-- ### 📫 How to reach me: -->
