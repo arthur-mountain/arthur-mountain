@@ -8,7 +8,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 
 
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
-  <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,nodejs,go,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,nodejs,go,lua,docker" />
 </a>
 
 
