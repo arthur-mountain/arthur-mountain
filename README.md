@@ -27,27 +27,20 @@ I have a keen interest in underlying technologies and continuously strive to con
 ### Frontend Skills
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![Web Vitals](https://img.shields.io/badge/-Web%20Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PageSpeed Insights](https://img.shields.io/badge/-PageSpeed%20Insights-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E)
 ![Eslint](https://img.shields.io/badge/-Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Nx](https://img.shields.io/badge/-Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
-
-<!--
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![Nx](https://img.shields.io/badge/-Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
--->
 
 ---
 
@@ -57,32 +50,29 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cloud SQL](https://img.shields.io/badge/-Cloud%20SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/-Cloud%20SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-<!--
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
--->
 
 ---
 
 ### DevOps Skills
 
-![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
-![GCP Log](https://img.shields.io/badge/-GCP%20Log-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP Log](https://img.shields.io/badge/-GCP%20Log-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
 ### Analytics
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
+
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
 
 ![Facebook Pixel](https://img.shields.io/badge/-Facebook%20Pixel-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
@@ -94,8 +84,8 @@ I have a keen interest in underlying technologies and continuously strive to con
 
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![Zsh](https://img.shields.io/badge/-Zsh-1BB91F?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-1BB91F?style=for-the-badge&logo=gnubash&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
