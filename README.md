@@ -6,19 +6,15 @@ I also have experience with some back-end technologies.
 
 I have a keen interest in underlying technologies and continuously strive to contribute to open source projects.
 
+### Languages
 
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
   <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,lua,go,docker" />
 </a>
-
-
-### Languages
-
+<!-- 
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-<!-- 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
