@@ -9,7 +9,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 ### Languages
 
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
-  <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,lua,go,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,go,docker" />
 </a>
 <!-- 
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -57,12 +57,12 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 -->
 
-### Operation Skills
+### DevOps Skills
 
 ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Monitor/Analysis Skills
+### Monitoring & Analytics
 
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![GCP Log](https://img.shields.io/badge/-GCP%20Log-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -78,7 +78,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Cooperation Tools
+### Collaboration Tools
 
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
