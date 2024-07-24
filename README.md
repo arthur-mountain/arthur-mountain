@@ -9,7 +9,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 ### Languages
 
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,go,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,go,bash,docker" />
 </a>
 <!-- 
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,6 +21,8 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 -->
+
+---
 
 ### Frontend Skills
 
@@ -36,6 +38,9 @@ I have a keen interest in underlying technologies and continuously strive to con
 
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E)
+![Eslint](https://img.shields.io/badge/-Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Nx](https://img.shields.io/badge/-Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 
 <!--
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
@@ -43,6 +48,8 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Nx](https://img.shields.io/badge/-Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 -->
+
+---
 
 ### Backend Skills
 
@@ -57,26 +64,43 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 -->
 
+---
+
 ### DevOps Skills
 
 ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Monitoring & Analytics
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
 ![GCP Log](https://img.shields.io/badge/-GCP%20Log-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Tag](https://img.shields.io/badge/-Google%20Tag-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
+
+---
+
+### Analytics
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
+
 ![Facebook Pixel](https://img.shields.io/badge/-Facebook%20Pixel-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
 ![Dcard Ads](https://img.shields.io/badge/-Dcard%20Ads-0052CC?style=for-the-badge&logo=dcard&logoColor=white)
+
+---
 
 ### Development Tools
 
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-1BB91F?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ### Collaboration Tools
 
