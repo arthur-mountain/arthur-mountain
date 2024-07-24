@@ -1,14 +1,14 @@
 ## Hi there, I'm Arthur 👋
 
-I am a front-end developer from Taiwan, specializing in modern web development and optimization.
+I am a software engineer from Taiwan, specializing in modern web development and optimization.
 
-I also have experience with some back-end technologies. 
+I also have experience with some back-end technologies.
 
 I have a keen interest in underlying technologies and continuously strive to contribute to open source projects.
 
 
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
-  <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,nodejs,go,lua,docker" />
+  <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,lua,go,docker" />
 </a>
 
 
@@ -30,14 +30,17 @@ I have a keen interest in underlying technologies and continuously strive to con
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Web Vitals](https://img.shields.io/badge/-Web%20Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PageSpeed Insights](https://img.shields.io/badge/-PageSpeed%20Insights-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
-![Web Vitals](https://img.shields.io/badge/-Web%20Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 <!--
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
@@ -49,6 +52,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloud SQL](https://img.shields.io/badge/-Cloud%20SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
