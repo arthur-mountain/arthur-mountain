@@ -30,6 +30,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![Web Vitals](https://img.shields.io/badge/-Web%20Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PageSpeed Insights](https://img.shields.io/badge/-PageSpeed%20Insights-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -52,6 +53,10 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloud SQL](https://img.shields.io/badge/-Cloud%20SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<!--
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+-->
 
 ---
 
