@@ -24,6 +24,11 @@ I have a keen interest in underlying technologies and continuously strive to con
 
 ---
 
+### Contributed
+![](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+
 ### Frontend Skills
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
