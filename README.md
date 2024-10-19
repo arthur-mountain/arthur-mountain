@@ -6,6 +6,12 @@ I also have experience with some back-end technologies.
 
 I have a keen interest in underlying technologies and continuously strive to contribute to open source projects.
 
+
+### Contributed
+![](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+
 ### Languages
 
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
@@ -21,11 +27,6 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 -->
-
----
-
-### Contributed
-![](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 
