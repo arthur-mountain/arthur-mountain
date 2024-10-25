@@ -54,6 +54,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 ### Mobile Skills
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Fastlane](https://img.shields.io/badge/-Fastlane-%230097E1?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-%23000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
