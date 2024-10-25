@@ -15,7 +15,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 ### Languages
 
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,go,bash,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,go,bash" />
 </a>
 <!-- 
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,7 +25,6 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 -->
 
 ---
@@ -68,6 +67,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 
 ### DevOps Skills
 
+![YAML](https://img.shields.io/badge/-YAML-%23cbcbcb?style=for-the-badge&logo=yaml&logoColor=%23000080)
 ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -106,7 +106,7 @@ I have a keen interest in underlying technologies and continuously strive to con
 ### Collaboration Tools
 
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <!-- ### 📫 How to reach me: -->
