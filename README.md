@@ -22,9 +22,10 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Swift](https://img.shields.io/badge/-Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 -->
 
 ---
@@ -33,7 +34,6 @@ I have a keen interest in underlying technologies and continuously strive to con
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
@@ -47,6 +47,14 @@ I have a keen interest in underlying technologies and continuously strive to con
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E)
 ![Eslint](https://img.shields.io/badge/-Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Nx](https://img.shields.io/badge/-Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+
+
+---
+
+### Mobile Skills
+
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-%23000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
