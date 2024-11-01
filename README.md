@@ -17,15 +17,20 @@ I have a keen interest in underlying technologies and continuously strive to con
 <a href="https://profile-fxfwhmre4-arthur-mountain.vercel.app/home">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,go,bash" />
 </a>
-<!-- 
+
+<!--
+Icon and color -> https://simpleicons.org
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Swift](https://img.shields.io/badge/-Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-B94700?style=for-the-badge&logo=rust&logoColor=white)
 -->
 
 ---
