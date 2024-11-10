@@ -1,8 +1,8 @@
 ## Hi there, I'm Arthur 👋
 
-I'm a software engineer from Taiwan, specializing in frontend infrastructure, modern web development, and optimization.
+I'm a software engineer from Taiwan specializing in frontend infrastructure, modern web development, optimization, and CI/CD.
 
-I also have experience with various backend technologies.
+I also have experience with various backend technologies. <!-- and I'm currently expanding my skills in iOS and Android development. -->
 
 I'm an open-source enthusiast with a keen interest in underlying technologies, consistently striving to contribute to open-source projects.
 
