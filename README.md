@@ -107,9 +107,9 @@ Custom icons -> https://shields.io/docs/logos#custom-logos
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-Zsh-1BB91F?style=for-the-badge&logo=gnubash&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
