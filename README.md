@@ -6,8 +6,18 @@ I also have experience with various backend technologies. <!-- and I'm currently
 
 I'm an open-source enthusiast with a keen interest in underlying technologies, consistently striving to contribute to open-source projects.
 
+
 ### Contributed
-![](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=6&theme=onedark&combine_all_yearly_contributions=true)
+![Contributed](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=6&theme=onedark&combine_all_yearly_contributions=true)
+
+<!--
+### Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/arthur-mountain?theme=unicorn&font=Noto%20Sans%20Georgian&ext=heatmap)
+
+| Contributed | Leetcode |
+| ----------- | -------- | 
+| ![Contributed](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=6&theme=onedark&combine_all_yearly_contributions=true) | ![LeetCode Stats](https://leetcard.jacoblin.cool/arthur-mountain?theme=unicorn&font=Noto%20Sans%20Georgian&ext=heatmap)
+-->
 
 ---
 
@@ -118,5 +128,4 @@ Custom icons -> https://shields.io/docs/logos#custom-logos
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
 <!-- ### 📫 How to reach me: -->
