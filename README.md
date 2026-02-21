@@ -6,11 +6,8 @@ I also have experience with various backend technologies. <!-- and I'm currently
 
 I'm an open-source enthusiast with a keen interest in underlying technologies, consistently striving to contribute to open-source projects.
 
-<!--
-此服務暫時停止使用，因此先註解掉，感謝開源!!！
 ### Contributed
 ![Contributed](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=6&theme=onedark&combine_all_yearly_contributions=true)
--->
 
 <!--
 ### Leetcode
