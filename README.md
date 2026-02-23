@@ -1,10 +1,15 @@
 ## Hi there, I'm Arthur 👋
 
-I'm a software engineer from Taiwan specializing in frontend infrastructure, modern web development, optimization, and CI/CD.
+Full-stack dev | Systems thinker, product builder | The more I use AI, the more curious I get 🔍
 
-I also have experience with various backend technologies. <!-- and I'm currently expanding my skills in iOS and Android development. -->
+Software engineer from Taiwan, specializing in frontend infrastructure,
+modern web development, and CI/CD — with hands-on experience across
+the full stack, from building UIs to designing backend services and
+managing infrastructure with K8s and AWS.
 
-I'm an open-source enthusiast with a keen interest in underlying technologies, consistently striving to contribute to open-source projects.
+Open-source enthusiast who loves digging into underlying technologies.
+The deeper I go, the more I want to explore.
+
 
 ### Contributed
 ![Contributed](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=6&theme=onedark&combine_all_yearly_contributions=true)
