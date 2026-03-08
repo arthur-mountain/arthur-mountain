@@ -10,10 +10,8 @@ managing infrastructure with K8s and AWS.
 Open-source enthusiast who loves digging into underlying technologies.
 The deeper I go, the more I want to explore.
 
-<!--
 ### Contributed
-![Contributed](https://github-contributor-stats.vercel.app/api?username=arthur-mountain&limit=6&theme=onedark&combine_all_yearly_contributions=true)
--->
+![Contributed](./assets/contributions.svg)
 
 <!--
 ### Leetcode
