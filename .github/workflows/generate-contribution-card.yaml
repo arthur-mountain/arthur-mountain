@@ -1,0 +1,188 @@
+name: Generate Contributions Card
+
+on: workflow_dispatch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install simple-icons
+        run: npm install simple-icons
+
+      - name: Generate contribution card
+        uses: actions/github-script@v8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs   = require("node:fs");
+            const si   = require("simple-icons");
+            const USERNAME = context.repo.owner;
+
+            // ── Icon resolve ──────────────────────────────────────────────
+            const normalize = (s) =>
+              s.toLowerCase().replace(/\./g, "dot").replace(/[-_\s]/g, "");
+
+            const SLUG_OVERRIDES = {
+              "ohmyzsh/ohmyzsh": "gnubash",
+              "folke/lazy.nvim": "neovim",
+              "vuejs/vue":       "vuedotjs",
+              "vuejs/core":      "vuedotjs",
+              "nodejs/node":     "nodedotjs",
+              "anthropics":      "anthropic",
+            };
+
+            function lookupIcon(slug) {
+              const key = "si" + slug.charAt(0).toUpperCase() + slug.slice(1);
+              return si[key] || null;
+            }
+
+            function resolveIcon(owner, name) {
+              const overrideSlug =
+                SLUG_OVERRIDES[`${owner}/${name}`] ?? SLUG_OVERRIDES[owner];
+              if (overrideSlug) return lookupIcon(overrideSlug);
+              return (
+                lookupIcon(normalize(name)) ||
+                lookupIcon(normalize(owner)) ||
+                si.siGithub
+              );
+            }
+
+            // ── GitHub GraphQL ────────────────────────────────────────────
+            // 使用 actions/github-script 提供的 github.graphql()
+            const result = await github.graphql(`
+              {
+                user(login: "${USERNAME}") {
+                  repositoriesContributedTo(
+                    first: 10
+                    contributionTypes: [PULL_REQUEST, COMMIT, ISSUE]
+                    orderBy: { field: STARGAZERS, direction: DESC }
+                    includeUserRepositories: false
+                  ) {
+                    nodes {
+                      name
+                      owner { login }
+                      stargazerCount
+                    }
+                  }
+                }
+              }
+            `);
+
+            const repos = result.user.repositoriesContributedTo.nodes
+              .filter((r) => r.stargazerCount > 0);
+
+            // ── Helpers ───────────────────────────────────────────────────
+            const calculateRank = (stars) => {
+              if (stars >= 100_000) return { label: "S+", tier: 0 };
+              if (stars >=  20_000) return { label: "S",  tier: 1 };
+              if (stars >=   5_000) return { label: "A+", tier: 2 };
+              return                       { label: "A",  tier: 3 };
+            };
+
+            const formatStars = (n) =>
+              n >= 1000
+                ? (n / 1000).toFixed(1).replace(/\.0$/, "") + "k"
+                : String(n);
+
+            const ICON_SIZE  = 13;
+            const ICON_SCALE = ICON_SIZE / 24;
+
+            const HEX_OVERRIDES = {
+              "anthropic": "CC785C",
+            };
+
+            const MUTED_FILL = "#8b949e";
+            function iconFill(slug, hex) {
+              const resolved = HEX_OVERRIDES[slug] ?? hex;
+              const r = parseInt(resolved.slice(0, 2), 16) / 255;
+              const g = parseInt(resolved.slice(2, 4), 16) / 255;
+              const b = parseInt(resolved.slice(4, 6), 16) / 255;
+              const lum = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+              return lum < 0.12 ? MUTED_FILL : `#${resolved}`;
+            }
+
+            function renderIcon(icon, cx, cy) {
+              const tx   = (cx - ICON_SIZE / 2).toFixed(2);
+              const ty   = (cy - ICON_SIZE / 2).toFixed(2);
+              const fill = iconFill(icon.slug, icon.hex);
+              return (
+                `<g transform="translate(${tx},${ty}) scale(${ICON_SCALE.toFixed(4)})" opacity="0.7">` +
+                `<path d="${icon.path}" fill="${fill}"/></g>`
+              );
+            }
+
+            // ── SVG ───────────────────────────────────────────────────────
+            const W        = 500;
+            const PAD      = 28;
+            const ROW_H    = 40;
+            const HEADER_H = 64;
+            const H        = HEADER_H + repos.length * ROW_H + 16;
+
+            const BG         = "#0d1117";
+            const BORDER     = "#21262d";
+            const DIM        = "#484f58";
+            const PRIMARY    = "#e6edf3";
+            const MUTED      = "#8b949e";
+            const TIER_COLOR = ["#f0f6fc", "#79c0ff", "#58a6ff", "#6e7681"];
+
+            const RANK_X  = PAD;
+            const ICON_CX = PAD + 34;
+            const NAME_X  = ICON_CX + ICON_SIZE / 2 + 8;
+            const STAR_X  = W - PAD;
+
+            const rows = repos
+              .map((repo, i) => {
+                const rank     = calculateRank(repo.stargazerCount);
+                const color    = TIER_COLOR[rank.tier];
+                const stars    = formatStars(repo.stargazerCount);
+                const y        = HEADER_H + i * ROW_H;
+                const midY     = y + ROW_H / 2;
+                const textY    = midY + 4.5;
+                const isLast   = i === repos.length - 1;
+                const fullName = `${repo.owner.login}/${repo.name}`;
+                const icon     = resolveIcon(repo.owner.login, repo.name);
+
+                return `
+              <!-- row ${i}: ${fullName} -->
+              <g>
+                ${!isLast ? `<line x1="${PAD}" y1="${y + ROW_H}" x2="${W - PAD}" y2="${y + ROW_H}" stroke="${BORDER}" stroke-width="1"/>` : ""}
+                <text x="${RANK_X}" y="${textY}" font-family="'Courier New',Courier,monospace" font-size="11" font-weight="700" letter-spacing="0.5" fill="${color}">${rank.label}</text>
+                ${renderIcon(icon, ICON_CX, midY)}
+                <text x="${NAME_X}" y="${textY}" font-family="'Courier New',Courier,monospace" font-size="13" fill="${PRIMARY}">${fullName}</text>
+                <text x="${STAR_X}" y="${textY}" font-family="'Courier New',Courier,monospace" font-size="11" fill="${MUTED}" text-anchor="end">★ ${stars}</text>
+              </g>`;
+              })
+              .join("\n");
+
+            const svg = `<svg
+              width="${W}" height="${H}" viewBox="0 0 ${W} ${H}"
+              xmlns="http://www.w3.org/2000/svg"
+              role="img" aria-label="Open Source Contributions by ${USERNAME}">
+              <defs>
+                <clipPath id="card-clip">
+                  <rect width="${W}" height="${H}" rx="6"/>
+                </clipPath>
+              </defs>
+              <g clip-path="url(#card-clip)">
+                <rect width="${W}" height="${H}" fill="${BG}"/>
+                <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="6" fill="none" stroke="${BORDER}" stroke-width="1"/>
+                <line x1="${PAD}" y1="${HEADER_H}" x2="${W - PAD}" y2="${HEADER_H}" stroke="${BORDER}" stroke-width="1"/>
+                <text x="${PAD}" y="38" font-family="'Courier New',Courier,monospace" font-size="12" font-weight="700" letter-spacing="2" fill="${DIM}">OPEN SOURCE CONTRIBUTIONS</text>
+                <text x="${W - PAD}" y="38" font-family="'Courier New',Courier,monospace" font-size="12" fill="${DIM}" text-anchor="end">@${USERNAME}</text>
+                ${rows}
+              </g>
+            </svg>`;
+
+            fs.mkdirSync("assets", { recursive: true });
+            fs.writeFileSync("assets/contributions.svg", svg.trim());
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet && echo "nothing changed, skipping push" || { git commit -m "chore: update contribution card [skip ci]" && git push; }
