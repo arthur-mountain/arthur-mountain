@@ -73,7 +73,7 @@ jobs:
             `);
 
             const repos = result.user.repositoriesContributedTo.nodes
-              .filter((r) => r.stargazerCount > 0);
+              .filter((r) => r.stargazerCount >= 5_000);
 
             // ── Helpers ───────────────────────────────────────────────────
             const calculateRank = (stars) => {
@@ -135,6 +135,12 @@ jobs:
             const STAR_X  = W - PAD;
 
             const rows = repos
+              .toSorted((a, b) => {
+                const tierA = calculateRank(a.stargazerCount).tier;
+                const tierB = calculateRank(b.stargazerCount).tier;
+                if (tierA !== tierB) return tierA - tierB;
+                return b.stargazerCount - a.stargazerCount;
+              })
               .map((repo, i) => {
                 const rank     = calculateRank(repo.stargazerCount);
                 const color    = TIER_COLOR[rank.tier];
@@ -185,4 +191,4 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/*.svg
-          git diff --cached --quiet && echo "nothing changed, skipping push" || { git commit -m "chore: update contribution card [skip ci]" && git push; }
+          git diff --cached --quiet && echo "nothing changed, skipping push" || { git commit -m "chore: update contribution card" && git push; }
