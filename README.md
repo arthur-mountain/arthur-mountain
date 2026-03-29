@@ -1,14 +1,19 @@
-## Hi there, I'm Arthur 👋
+Full-stack dev | Systems thinker | Taiwan 🇹🇼
 
-Full-stack dev | Systems thinker, product builder | The more I use AI, the more curious I get 🔍
+Software engineer with a full-stack background — frontend infrastructure,
+backend services, CI/CD pipelines, and cloud infrastructure (K8s, AWS).
 
-Software engineer from Taiwan, specializing in frontend infrastructure,
-modern web development, and CI/CD — with hands-on experience across
-the full stack, from building UIs to designing backend services and
-managing infrastructure with K8s and AWS.
+But what drives me is going deeper. I'm drawn to the boundaries most engineers
+stop at — compilers, bundler internals, networking primitives, and the Unix toolchain —
+because understanding the layers below the abstractions we build on is
+what makes architecture decisions defensible.
 
-Open-source enthusiast who loves digging into underlying technologies.
-The deeper I go, the more I want to explore.
+I follow and contribute to open-source projects — especially ones where
+reading the source is the best documentation.
+
+Currently pushing deeper into systems-level programming.
+
+[![arthurmountain.dev](https://img.shields.io/badge/arthurmountain.dev-000000?style=for-the-badge)](https://arthurmountain.dev/from/github)
 
 ### Contributed
 ![Contributed](./assets/contributions.svg)
