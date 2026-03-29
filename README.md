@@ -1,7 +1,8 @@
 Full-stack dev | Systems thinker | Taiwan 🇹🇼
 
 Software engineer with a full-stack background — frontend infrastructure,
-backend services, CI/CD pipelines, and cloud infrastructure (K8s, AWS).
+backend services, CI/CD pipelines, cloud infrastructure (K8s, AWS),
+and AI systems.
 
 But what drives me is going deeper. I'm drawn to the boundaries most engineers
 stop at — compilers, bundler internals, networking primitives, and the Unix toolchain —
