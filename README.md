@@ -1,4 +1,4 @@
-Software engineer | Systems thinker | Taiwan 🇹🇼
+Software Engineer | Full-Stack | Systems Thinker | Open Source | Taiwan 🇹🇼
 
 Software engineer with a full-stack background — frontend infrastructure,
 backend services, CI/CD pipelines, cloud infrastructure (K8s, AWS),
